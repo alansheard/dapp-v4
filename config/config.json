@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0C361d732CB17cA14507B4EF304a6B0E372E7Bbf",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x0C361d732CB17cA14507B4EF304a6B0E372E7Bbf",
+  "NETWORK": {
+    "NAME": "BNB",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "BNB Bears",
+  "SYMBOL": "BNB Bears",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 330000000000000000,
+  "DISPLAY_COST": 0.33,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bnbbearstest",
+  "SHOW_BACKGROUND": true
+}
